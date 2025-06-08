@@ -13,9 +13,9 @@ Mammograms are specialized X-ray images of the breast, which are widely used by 
 The aim of this project is to develop and evaluate deep learning models capable of accurately analysing mammographic images for tumor malignancy and breast tissue density, aiding early diagnosis and risk assessment.
 It will process the medical images and use artificial intelligence to identify potential signs of breast cancer.
 
-#### Dataset
+# Dataset
 The dataset used in this project consists of mammographic images with dimensions (224, 224, 3). Each image is labeled with two key attributes:
-1. Breast Density
+#### 1. Breast Density
    
 Breast density indicates the amount of fibroglandular tissue in the breast. Categories include:
 
